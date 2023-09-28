@@ -31,22 +31,23 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 ### SQL
 SQL has a lot of tips and tricks that take times to know. 
   * [Mode Analytics SQL Guide](https://mode.com/sql-tutorial/introduction-to-sql/). Very complete, even intermediate users can learn from this series of tutorials.
-  * [Learning SQL 201: Optimizing Queries, Regardless of Platform](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1) By Randy Au. I finally found a complete post on advanced SQL.
+  * [Learning SQL 201: Optimizing Queries, Regardless of Platform](https://counting.substack.com/p/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1)([Mirror](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1)) By Randy Au. I finally found a complete post on advanced SQL.
 
 ### Python 
 Python is a very broad subject. Maybe you can follow this list for more [Python focused readings](https://github.com/charlax/python-education).
-  * [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662). :book: Very comprehensive book about using python for data stuff. 
+  * [:book: Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662). Very comprehensive book about using python for data stuff. 
   * [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) I use it everyday!
-  * [Modern pandas](https://tomaugspurger.github.io/modern-1-intro.html). A series of blog posts on intermediate/advanced pandas written by one of the maintainers. 
+  * [Modern pandas](https://tomaugspurger.github.io/modern-1-intro.html). A series of blog posts on intermediate/advanced pandas written by one of the maintainers.
+  * [Ponder Blogs](https://ponder.io/blog/) has posts about using pandas and its alternatives
 
 ### Infrastructure
 
   * [The Startup Founder's Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1). An excellent introduction to the stack necessary for analytics and its evolution following the growth of the start-up.  
-  * [The missing layer of Analytics Stack](https://blog.getdbt.com/the-missing-layers-of-the-analytics-stack). 
+  * [:warning: The missing layer of Analytics Stack](https://blog.getdbt.com/the-missing-layers-of-the-analytics-stack). 
   * [Choosing a Data Warehouse](https://discourse.getdbt.com/t/choosing-a-data-warehouse/62/4). A lot of excellent answers on what to choose for your data warehouse. 
   * [Data science for start-ups](https://bgweber.github.io/intro.html). You can find some useful information in this free book.
-  * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) :book: Fascinating read to learn more about databases, protocols etc...
-  * [The Modern Data Stack: Past, Present, and Future](http://blog.getdbt.com/future-of-the-modern-data-stack/) A must-read on the last innovations in the data stack.
+  * [:book: Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) Fascinating read to learn more about databases, protocols etc...
+  * [:warning: The Modern Data Stack: Past, Present, and Future](http://blog.getdbt.com/future-of-the-modern-data-stack/) A must-read on the last innovations in the data stack.
 
   **Comparison of tools by Stephen Levin**
   * [Looker vs Tableau vs Mode. Data Visualisation tools compared](https://www.stephenlevin.co/advanced-analytics-part-3-data-visualization/). . 
@@ -60,7 +61,7 @@ Python is a very broad subject. Maybe you can follow this list for more [Python 
 ### Data Warehousing
 
   * [The beginner guide to data engineering series](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7). Start here if you don't know what is a star schema, Airflow and some basic practices when writing data pipelines.    
-  * [Best practices for data modeling](https://www.stitchdata.com/blog/best-practices-for-data-modeling/). A lot of practical tips on naming, grain, permissions and materialization. 
+  * [Best practices for data modeling](https://www.stitchdata.com/resources/best-practices-for-data-modeling/). A lot of practical tips on naming, grain, permissions and materialization. 
   * [The Data Warehouse Toolkit](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=sr_1_1?crid=FV5A2S72XIZO&keywords=data+warehouse+toolkit&qid=1566644628&s=gateway&sprefix=data+ware%2Caps%2C213&sr=8-1) by Ralph Kimball. :book: A classic in Business Intelligence. Some chapters can be gold on modeling your data warehouse.   
   * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a). You will learn the spirit behind good data pipelines and a well-designed data warehouse.  
   * [The rise of the Data Engineer](https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603). Explains recent evolutions of the job and data practices.   
@@ -133,7 +134,7 @@ Knowing more about programming is an huge asset. For instance [Professional Prog
 
 
 # Top bloggers/blog
-  * [Randy Au](https://towardsdatascience.com/@Randy_Au). You can read almost all his posts there are all very relevant for analytics engineers.
+  * [Randy Au](https://www.randyau.com/about/). You can read almost all his posts there (and in [Medium](https://randy-au.medium.com/)) are all very relevant for analytics engineers.
   * [Locally Optimistic](https://www.locallyoptimistic.com/). A blog dedicated to data in organizations. 
   * [Tristan Handy](https://medium.com/@jthandy). I also love his newsletter: [Data Science Roundup](http://roundup.fishtownanalytics.com/).
   * [Dbt blog](https://blog.getdbt.com/). 90% of the articles are almost must-read.
